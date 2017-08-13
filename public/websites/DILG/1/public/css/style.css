@@ -1,0 +1,87 @@
+@font-face {
+	font-family: "Trajan";
+	src: url('../fonts/Cinzel-Regular.ttf');
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url('../fonts/RobotoCondensed-Regular.ttf');
+}
+
+body {
+	color: #222222;
+	font-family: "Tahoma";
+}
+
+#banner {
+	width: 100%;
+	height: 125px;
+	padding: 10px 0px 15px 0px;
+	background-color: #ffffff;
+	border-bottom: 4px solid #FFBF00;
+}
+
+#banner-wrapper {
+	margin: auto;
+	position: relative;
+	width: 1190px;
+	color: #222222;
+}
+
+#dept-name h1, #dept-name h3, #dept-name h4 {
+	font-family: "Trajan";
+	font-weight: 500;
+}
+
+#dept-name h1 {
+	margin: 0;
+	font-size: 24px;
+}
+
+#dept-name h3 {
+	margin: 0;
+	font-size: 14px;
+	border-bottom: 1px solid #222222;
+	margin: 12px 0 5px 0;
+	font-size: 19px;
+	padding: 0 0 5px 0;
+	display: inline-block;
+	width: 685px;
+}
+
+#logo {
+	height: 110px;
+	width: auto;
+	margin: 10px 20px 10px 0px;
+	display: inline;
+	vertical-align: top;
+}
+
+#dept-name {
+	padding-top: 20px;
+	display: inline-block;
+}
+
+#line {
+	height: 2px;
+	width: 640px;
+	background-color: #222222;
+}
+
+#seal {
+	height: 110px;
+	width: auto;
+	margin: 10px 0px 10px 0px;
+	display: inline;
+	vertical-align: top;
+	float: right;
+}
+
+#footer h2 {
+	font-family: 'Roboto';
+	text-transform: uppercase;
+}
+
+#footer-wrapper {
+	font-family: 'Roboto';
+}

@@ -1,0 +1,96 @@
+@font-face {
+	font-family: "Trajan";
+	src: url('../fonts/Cinzel-Regular.ttf');
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url('../fonts/RobotoCondensed-Regular.ttf');
+}
+
+body {
+	font-family: "Tahoma";
+}
+
+#bnr{
+	color: #ffffff;
+	padding: 10px 0px 10px 0px;
+}
+
+#dept-name h1, #dept-name h3, #dept-name h4 {
+	font-family: "Trajan";
+	font-weight: 500;
+}
+
+#dept-name h1 {
+	margin: 0;
+	font-size: 24px;
+}
+
+#dept-name h5 {
+	display: inline-block;
+	color: #FCD000;
+	font-weight: 700;
+	margin: 8px 0;
+	padding-bottom: 2px;
+	font-size: 20px;
+}
+
+#dept-name h3 {
+	margin: 0;
+	font-size: 14px;
+	border-bottom: 1px solid #FFF;
+	margin: 12px 0 5px 0;
+	font-size: 19px;
+	padding: 0 0 5px 0;
+	display: inline-block;
+	width: 570px;
+}
+
+#logo{
+	height: 110px;
+	width: auto;
+	margin: 15px 20px 10px 25px;
+	display: inline;
+	vertical-align: top;
+}
+
+#dept-name, .large-3.medium-12.columns{
+	padding-top: 25px;
+	display: inline-block;
+}
+
+#line{
+	height: 2px;
+	width: 550px;
+	background-color: #ffffff;
+}
+
+.custom a{
+	font-family: "Roboto";
+}
+
+.blog-featured p, ul.category-module{
+	text-align: justify;
+	font-size: 14px;
+}
+
+.item-title{
+	font-size: 22px;
+}
+
+#gwt-menu, #auxiliary{
+	font-family: "Roboto";
+}
+
+div#set-rl_sliders-1{
+	font-size: 13px;
+}
+
+div#set-rl_sliders-1 {
+	font-size: 16px;
+	}
+
+i.fa.fa-universal-access.fa-2x{
+	color: #e4e4e4;
+}
